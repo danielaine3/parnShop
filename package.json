@@ -1,0 +1,19 @@
+{
+  "name": "parnshop",
+  "version": "1.0.0",
+  "description": "School Store application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielaine3/parnShop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielaine3/parnShop/issues"
+  },
+  "homepage": "https://github.com/danielaine3/parnShop#readme"
+}
